@@ -4,6 +4,10 @@
 **GitHub About / English:** Already a business idea and a tool I use every day and keep developing. A personal organizer for Android and Windows.
 **Описание GitHub / Русский:** Уже деловая мысль и полезная штука: сам пользуюсь вовсю и продолжаю развивать. Органайзер для Android и Windows.
 
+**Лицензия:** [PolyForm Noncommercial 1.0.0](LICENSE). Некоммерческое использование разрешено. Коммерческое использование — только по отдельному соглашению с vibic777.
+**License:** [PolyForm Noncommercial 1.0.0](LICENSE). Noncommercial use is allowed. Commercial use requires a separate agreement with vibic777.
+
+
 Это уже деловая мысль, не черновик на полке. Полезная штука: сам пользуюсь вовсю и продолжаю развивать.
 
 Этот репозиторий объединяет Android и Windows варианты Notio в одном Git/Gradle-проекте. Общую логику переносим постепенно; платформенные интерфейсы и системные функции сохраняем в Android и Windows слоях.

@@ -2,6 +2,9 @@
 
 [Русский](README.md) · **English**
 
+**License:** [PolyForm Noncommercial 1.0.0](LICENSE). Noncommercial use is allowed. Commercial use requires a separate agreement with vibic777.
+
+
 This is already a business idea, not a draft left on the shelf. It is a useful tool: I use it every day and keep developing it.
 
 Notio combines Android and Windows editions of a personal organizer in one Gradle project. The codebase is being consolidated gradually while platform-specific interfaces and system features remain in their respective app layers.
