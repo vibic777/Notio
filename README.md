@@ -1,8 +1,10 @@
 # Notio — единый проект Android и Windows
 [Русский](README.md) · [English](README.en.md)
 
-**GitHub About / English:** A cross-platform personal organizer for Android and Windows, bringing notes and planning tools into one project with shared data and coordinated releases.
-**Описание GitHub / Русский:** Персональный органайзер для Android и Windows: заметки и инструменты планирования в общем проекте с совместимыми данными и согласованными выпусками.
+**GitHub About / English:** Already a business idea and a tool I use every day and keep developing. A personal organizer for Android and Windows.
+**Описание GitHub / Русский:** Уже деловая мысль и полезная штука: сам пользуюсь вовсю и продолжаю развивать. Органайзер для Android и Windows.
+
+Это уже деловая мысль, не черновик на полке. Полезная штука: сам пользуюсь вовсю и продолжаю развивать.
 
 Этот репозиторий объединяет Android и Windows варианты Notio в одном Git/Gradle-проекте. Общую логику переносим постепенно; платформенные интерфейсы и системные функции сохраняем в Android и Windows слоях.
 
