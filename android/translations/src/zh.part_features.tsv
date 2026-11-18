@@ -1,0 +1,12 @@
+features_title	分区
+features_hint	选择 Notio 显示的内容：文件夹、笔记类型、提醒、日历和同步。关闭只是隐藏，绝不删除。
+features_wizard_title	Notio 显示什么
+features_wizard_body	打开您需要的分区：文件夹和笔记类型、提醒、日历和同步。之后可在 设置 → 分区 中更改。关闭的分区只会隐藏其内容，绝不删除。
+features_done	完成
+features_hide_title	关闭？
+features_hide_body	“%1$s”中有 %2$d 个对象。它们将被隐藏，而不是删除——重新打开即可恢复。关闭？
+features_hide_confirm	关闭
+features_lock_kinds_on	请先关闭其中的笔记类型
+features_lock_needs_folders	请先打开其文件夹
+help_features_title	分区
+help_features_body	首次启动时，以及之后在 设置 → 分区 中，Notio 会询问您需要哪些分区：笔记文件夹和任务文件夹、每种笔记类型、提醒、日历和同步。关闭的分区会隐藏属于它的内容——文件夹、笔记、提醒——但不会删除任何内容：重新打开即可全部恢复，备份和同步仍会携带它们。关闭已有对象的分区时会先询问并告知数量。没有文件夹不能打开笔记类型，只要有一种笔记类型打开，笔记文件夹就不能关闭；任务同理。

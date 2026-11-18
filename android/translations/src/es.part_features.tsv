@@ -1,0 +1,12 @@
+features_title	Secciones
+features_hint	Elija qué muestra Notio: carpetas, tipos de nota, recordatorios, calendario y sincronización. Lo desactivado se oculta, nunca se borra.
+features_wizard_title	Qué muestra Notio
+features_wizard_body	Active las secciones que quiera: carpetas y tipos de nota, recordatorios, calendario y sincronización. Puede cambiarlo luego en Ajustes → Secciones. Lo desactivado oculta sus objetos, no los borra.
+features_done	Hecho
+features_hide_title	¿Desactivar?
+features_hide_body	«%1$s» tiene %2$d elemento(s). Se ocultarán, no se borrarán — al activarlo vuelven. ¿Desactivar?
+features_hide_confirm	Desactivar
+features_lock_kinds_on	Desactive primero los tipos que viven en él
+features_lock_needs_folders	Active primero sus carpetas
+help_features_title	Secciones
+help_features_body	Al primer inicio, y luego en Ajustes → Secciones, Notio pregunta qué secciones quiere: carpetas de notas y de tareas, cada tipo de nota, los recordatorios, el calendario y la sincronización. Una sección desactivada oculta lo suyo — carpetas, notas, recordatorios — pero no borra nada: actívela de nuevo y todo vuelve, y una copia o sincronización aún la transporta. Desactivar una sección con objetos pregunta antes y dice cuántos. Un tipo de nota no se activa sin sus carpetas, y las carpetas de notas no se desactivan mientras haya un tipo activo; igual para las tareas.

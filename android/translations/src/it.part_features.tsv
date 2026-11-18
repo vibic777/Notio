@@ -1,0 +1,12 @@
+features_title	Sezioni
+features_hint	Scegli cosa mostra Notio: cartelle, tipi di nota, promemoria, calendario e sincronizzazione. Il disattivato si nasconde, non si cancella.
+features_wizard_title	Cosa mostra Notio
+features_wizard_body	Attiva le sezioni che vuoi: cartelle e tipi di nota, promemoria, calendario e sincronizzazione. Si può cambiare poi in Impostazioni → Sezioni. Il disattivato nasconde i suoi oggetti, non li elimina.
+features_done	Fatto
+features_hide_title	Disattivare?
+features_hide_body	«%1$s» ha %2$d elemento/i. Saranno nascosti, non eliminati — riattivandolo tornano. Disattivare?
+features_hide_confirm	Disattiva
+features_lock_kinds_on	Prima disattiva i tipi che ci vivono
+features_lock_needs_folders	Prima attiva le sue cartelle
+help_features_title	Sezioni
+help_features_body	Al primo avvio, e poi in Impostazioni → Sezioni, Notio chiede quali sezioni vuoi: cartelle di note e di attività, ogni tipo di nota, i promemoria, il calendario e la sincronizzazione. Una sezione disattivata nasconde ciò che le appartiene — cartelle, note, promemoria — senza eliminare nulla: riattivala e tutto torna, e un backup o una sincronizzazione la trasporta ancora. Disattivare una sezione che ha oggetti prima chiede e dice quanti. Un tipo di nota non si attiva senza le sue cartelle, e le cartelle di note non si disattivano finché un tipo è attivo; lo stesso per le attività.
